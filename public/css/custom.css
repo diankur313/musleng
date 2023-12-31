@@ -1,0 +1,20 @@
+.qr_code {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.judul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+}
